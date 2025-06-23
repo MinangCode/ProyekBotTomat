@@ -1,0 +1,6 @@
+Flask
+gunicorn
+tensorflow
+numpy
+python-telegram-bot
+requests
